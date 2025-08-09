@@ -2,8 +2,6 @@
 
 A friendly desktop fox created with Python and PySide6, designed to bring you some enjoyable moments during your hard-working day.
 
-*Add a GIF of your pet in action here! A short screen recording of it walking, being dragged, and the chat window opening would be perfect.*
-
 ---
 
 ## Features
