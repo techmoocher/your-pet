@@ -74,7 +74,7 @@ Follow these steps to get your own desktop fox running on your machine.
     ```
     
 **ENJOY YOUR NEW FRIEND!!!**
-
+<!--
 ---
 
 ## To-Do
@@ -82,3 +82,4 @@ Follow these steps to get your own desktop fox running on your machine.
 *   [ ] Add simple sound effects for interactions.
 *   [ ] Create a settings window to adjust pet speed or other features.
 *   [ ] Expand the non-AI chat with more keyword-based responses.
+-->
