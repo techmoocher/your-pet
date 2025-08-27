@@ -2,10 +2,11 @@
 
 A friendly desktop fox created with Python and PySide6, designed to bring you some enjoyable moments during your hard-working day.
 
+<!--
 <div align="center">
   <img src="logo.png" alt="Desktop Fox Pet" width="300" height="300">
 </div>
-
+-->
 ---
 
 ## Features
