@@ -2,6 +2,7 @@
 
 A friendly desktop fox created with Python and PySide6, designed to bring you some enjoyable moments during your hard-working day.
 
+![logo.png]
 ---
 
 ## Features
