@@ -87,7 +87,7 @@ For the music player to find your songs, you must follow this folder structure:
     * The thumbnail must be named: `thumbnail.jpg` (or `.png`, `.jfif`).
 
 **Example Structure:**
-
+```
 your-pet/
 ├── music/
 │   └── Interstellar-Main-Theme/
@@ -97,7 +97,7 @@ your-pet/
 │   └── ... (all the image assets)
 ├── main.py
 └── requirements.txt
-
+```
 
 ### Interacting with the Pet
 
