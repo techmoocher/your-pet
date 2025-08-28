@@ -11,7 +11,7 @@ A lively desktop fox that brings personality to your screen, complete with a sle
 
 ## Preview
 
-[![I created my own Desktop Pet](preview.png)](https://youtube.com/74329Gpg_P4)
+[![I created my own Desktop Pet](preview.png)]([https://youtube.com/74329Gpg_P4](https://www.youtube.com/watch?v=74329Gpg_P4))
 
 ## Features
 
