@@ -11,7 +11,11 @@ A lively desktop fox that brings personality to your screen, complete with a sle
 
 ## Preview
 
-[![I created my own Desktop Pet](preview.png)]([https://youtube.com/74329Gpg_P4](https://www.youtube.com/watch?v=74329Gpg_P4))
+<a href="https://www.youtube.com/watch?v=74329Gpg_P4" target="_blank">
+  <div align="center">  
+    <img src="preview/preview.png" alt="Preview video thumbnail" width="502" height="342">
+  </div>
+</a>
 
 ## Features
 
