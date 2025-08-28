@@ -11,11 +11,9 @@ A lively desktop fox that brings personality to your screen, complete with a sle
 
 ## Preview
 
-<div align="center">
-   <video width="1280" height="720" controls>
-      <source src="preview.mp4" type="video/mp4">
-   </video>
-</div>
+<video width="1280" height="720" controls>
+  <source src="preview.mp4" type="video/mp4">
+</video>
 
 ## Features
 
