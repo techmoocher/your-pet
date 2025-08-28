@@ -2,10 +2,20 @@
 
 A lively desktop fox that brings personality to your screen, complete with a sleek, fully-featured music player to accompany your day.
 
+<!--
+<div align="center">
+  <img src="logo.png" alt="Desktop Fox Pet" width="300" height="300">
+</div>
+-->
 ---
 
 ## Preview
-![](preview.mp4)
+
+<div align="center">
+   <video width="1280" height="720" controls>
+      <source src="preview.mp4" type="video/mp4">
+   </video>
+</div>
 
 ## Features
 
@@ -107,3 +117,13 @@ your-pet/
 * **Click and drag** the fox to move it.
 * **Click and hold** without moving to pause it.
 * Use the **system tray icon** to hide/show the fox, control your music, or exit the application.
+
+<!--
+---
+
+## To-Do
+*   [ ] Implement visual-only "Feed" and "Drink" actions from the menu.
+*   [ ] Add simple sound effects for interactions.
+*   [ ] Create a settings window to adjust pet speed or other features.
+*   [ ] Expand the non-AI chat with more keyword-based responses.
+-->
