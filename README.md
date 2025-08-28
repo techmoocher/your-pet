@@ -11,9 +11,7 @@ A lively desktop fox that brings personality to your screen, complete with a sle
 
 ## Preview
 
-<video width="1280" height="720" controls>
-  <source src="preview.mp4" type="video/mp4">
-</video>
+[![I created my own Desktop Pet](preview.png)](https://youtube.com/74329Gpg_P4)
 
 ## Features
 
