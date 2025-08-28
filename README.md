@@ -4,6 +4,9 @@ A lively desktop fox that brings personality to your screen, complete with a sle
 
 ---
 
+## Preview
+![](preview.mp4)
+
 ## Features
 
 This application combines a dynamic virtual pet with a modern music player, all controlled from a convenient system tray icon.
